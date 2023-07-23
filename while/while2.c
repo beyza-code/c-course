@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 // 10'dan başlayıp bir azalta azalta 1' e kadar olan sayıları ekrana bastırınız
 
 int main() {
@@ -7,4 +7,4 @@ int main() {
     printf("%d\n", i);
     i--;
   }
-}*/
+}
